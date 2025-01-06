@@ -14,3 +14,12 @@ Project files:
     - the file with cleaned comments and two extra columns with predictions from the baseline model and fine-tuned distilbert - gets saved when running the ML_project.ipynb code
 13. Project_report.pdf
     - report summarising the project - methods, context etc.
+   
+
+The code files were downloaded from Google Colab which was the environment used in this project, here are the links to the online notebooks:
+
+SCRAPING:
+https://colab.research.google.com/drive/15YD8UQcbtpKZ7Anpj0hJ4pglMI9xM9IQ?usp=sharing 
+
+MAIN CODE:
+https://colab.research.google.com/drive/1I3NjZXUDcHpol0H1o2D0cgyHU3FvdQRf?usp=sharing 
